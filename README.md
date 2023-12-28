@@ -1,0 +1,1 @@
+Makes Big Torch from kibe not block spawners.
